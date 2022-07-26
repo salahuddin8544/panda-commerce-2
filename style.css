@@ -1,0 +1,41 @@
+
+.container{
+    margin-bottom: 80px;
+}
+.orange-bg{
+    background-color:#FCEAE8;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+}
+.col-md-4{
+position: relative;
+width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+}
+.col-md-4 img{
+    width:100px;
+}
+.btn2{
+    margin-top: 45px;
+}
+.cat3{
+    margin-top: 15px;;
+}
+#subscrive{
+    margin-top: 40px;
+    padding: 30px 490px;
+}
